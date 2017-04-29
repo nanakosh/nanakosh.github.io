@@ -5,6 +5,7 @@ I am an undergraduate student at the University of Otago, majoring in Physics wi
 ### Research
 
 Quantum Gases:
+
 [Domain percolation in a quenched ferromagnetic spinor condensate](https://arxiv.org/abs/1704.06332)
 
 ### Contact
