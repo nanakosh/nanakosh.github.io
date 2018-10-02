@@ -1,6 +1,6 @@
 ## Nanako Shitara
 
-I am an undergraduate student at the University of Otago, majoring in Physics with minors in Computer Science and Mathematics.
+I am a master's student at Tokyo Institute of Technology, majoring in physics. I received a Bachelor of Science (BSc) from the University of Otago, majoring in Physics with minors in Computer Science and Mathematics.
 
 ### Research
 
@@ -9,4 +9,4 @@ Quantum Gases:
 
 ### Contact
 
-E-mail: shina670 [at] student.otago.ac.nz
+E-mail: shitara.n.aa [at] m.titech.ac.jp
