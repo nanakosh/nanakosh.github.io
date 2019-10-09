@@ -4,7 +4,7 @@ I am a master's student at Tokyo Institute of Technology, majoring in physics. I
 
 ### Publications
 
-Coupled Cluster Method:
+Electron Electric Dipole Moment:
 [The role of relativistic many-body theory in electron electric dipole moment searches using cold molecules](https://doi.org/10.3390/atoms7020058)
 
 [Enhanced sensitivity of the electron electric dipole moment from YbOH: The role of theory](https://link.aps.org/doi/10.1103/PhysRevA.99.062502)
